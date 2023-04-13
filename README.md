@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**walker2two/walker2two** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Andrey Schipilo 
 
-Here are some ideas to get you started:
+Developer specialized in Go and Kubernetes. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+Here is a list of **projects** I made or contributed that are worth mentioning:
+- [CSI Driver](https://github.com/dell/csi-powerstore)
+- [Replication Manager](https://github.com/dell/csm-replication)
+- [Mail Service](https://github.com/ProjectZenMail/zenmail)
+- [EFK Deploy](https://github.com/walker2/efk-stack)
+- [Java + Keras](https://github.com/walker2/pcf-ml-demo)
+- [C++ Game](https://github.com/walker2/SunflowerSpaniel)
+- [Android Game](https://github.com/MinimumCosmic/MinimumCosmic)
+
+
+See [@walker2](https://github.com/walker2) for more
+
